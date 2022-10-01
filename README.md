@@ -15,3 +15,5 @@ Instructions:
 - Hit by fish takes away points
 
 - Defeat fish to score points
+
+Link: https://seahorse-game.netlify.app/
