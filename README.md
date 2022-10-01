@@ -10,7 +10,7 @@ Instructions:
 
 - PowerUp allows Player to shoot from top and bottom of character for a certain time frame
 
--Lucky Fish to give you a chance at powerUp
+- Lucky Fish to give you a chance at powerUp
 
 - Hit by fish takes away points
 
